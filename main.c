@@ -5,7 +5,7 @@ int main(void) {
 
     double r = 4.0;
 
-    double pi = 3.141592;
+    double pi = 3.141592
 
     double a;
 
