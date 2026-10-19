@@ -9,7 +9,7 @@ int main(void) {
 
     double a;
 
-    scanf("%lf", &x)
+    scanf("%lf", &x);
 
     a = x * 360.0 / (pi * r);
 
