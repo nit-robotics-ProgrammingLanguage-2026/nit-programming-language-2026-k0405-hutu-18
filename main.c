@@ -3,7 +3,7 @@
 int main(void) {
   double x;
 
-    double r = 4.0;
+    double r = 4.0
 
     double pi = 3.141592;
 
